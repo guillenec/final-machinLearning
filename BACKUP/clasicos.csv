@@ -1,0 +1,937 @@
+local_goals,local_name,match,visitor_goals,visitor_name
+0,Colon,Superliga 2018/19 - Fecha 4,0,Union
+1,Union,Superliga 2017/18 - Fecha 17,1,Colon
+1,Colon,Campeonato 2016/17 - Fecha 24,1,Union
+0,Union,Campeonato 2016/17 - Fecha 16,2,Colon
+1,Union,Torneo 2016 - Fecha 12,0,Colon
+0,Colon,Torneo 2016 - Fecha 8,3,Union
+0,Union,Campeonato 2015 - Fecha 27,0,Colon
+0,Colon,Campeonato 2015 - Fecha 24,0,Union
+1,Union,Torneo Final 2013 - Fecha 16,0,Colon
+2,Colon,Torneo Inicial 2012 - Fecha 16,0,Union
+2,Union,Torneo Clausura 2012 - Fecha 4,2,Colon
+0,Colon,Torneo Apertura 2011 - Fecha 4,2,Union
+0,Union,Torneo Clausura 2003 - Fecha 10,0,Colon
+1,Colon,Torneo Apertura 2002 - Fecha 10,0,Union
+0,Union,Torneo Clausura 2002 - Fecha 19,0,Colon
+0,Colon,Torneo Apertura 2001 - Fecha 19,0,Union
+1,Colon,Torneo Clausura 2001 - Fecha 14,1,Union
+2,Union,Torneo Apertura 2000 - Fecha 14,2,Colon
+4,Colon,Torneo Clausura 2000 - Fecha 5,0,Union
+2,Union,Torneo Apertura 1999 - Fecha 5,0,Colon
+0,Colon,Torneo Clausura 1999 - Fecha 7,0,Union
+0,Union,Torneo Apertura 1998 - Fecha 7,2,Colon
+2,Union,Torneo Clausura 1998 - Fecha 8,2,Colon
+2,Colon,Torneo Apertura 1997 - Fecha 8,1,Union
+0,Colon,Torneo Clausura 1997 - Fecha 17,0,Union
+1,Union,Torneo Apertura 1996 - Fecha 17,1,Colon
+1,Colon,Metropolitano 1981 - Fecha 18,1,Union
+2,Union,Metropolitano 1981 - Fecha 1,0,Colon
+3,Union,Metropolitano 1980 - Fecha 36,1,Colon
+0,Colon,Metropolitano 1980 - Fecha 17,1,Union
+2,Union,Nacional 1980 - Fecha Intergrupo,0,Colon
+2,Colon,Nacional 1980 - Fecha Intergrupo,1,Union
+2,Union,Nacional 1979 - Fecha Intergrupo,1,Colon
+1,Colon,Nacional 1979 - Fecha Intergrupo,1,Union
+1,Colon,Metropolitano 1978 - Fecha 41,1,Union
+1,Union,Metropolitano 1978 - Fecha 20,1,Colon
+0,Union,Metropolitano 1977 - Fecha 42,1,Colon
+2,Colon,Metropolitano 1977 - Fecha 19,1,Union
+1,Colon,Metropolitano 1976 - Ronda Final,1,Union
+4,Union,Metropolitano 1976 - Fecha Intergrupo,2,Colon
+3,Colon,Metropolitano 1976 - Fecha Intergrupo,1,Union
+1,Union,Nacional 1976 - Fecha Intergrupo,0,Colon
+2,Colon,Nacional 1976 - Fecha Intergrupo,2,Union
+3,Colon,Metropolitano 1975 - Fecha 38,2,Union
+0,Union,Metropolitano 1975 - Fecha 19,0,Colon
+1,Colon,Nacional 1975 - Fecha Intergrupo,0,Union
+1,Union,Nacional 1975 - Fecha Intergrupo,1,Colon
+0,Union,Metropolitano 1970 - Grupo Reclasificatorio,1,Colon
+1,Colon,Metropolitano 1970 - Grupo Reclasificatorio,1,Union
+1,Colon,Metropolitano 1970 - Fecha 15,3,Union
+0,Colon,Metropolitano 1969 - Fecha Intergrupo,1,Union
+0,Union,Metropolitano 1969 - Fecha Intergrupo,0,Colon
+1,Colon,Metropolitano 1967 - Fecha Intergrupo,1,Union
+0,Union,Metropolitano 1967 - Fecha Intergrupo,0,Colon
+0,Racing Club,Superliga 2017/18 - Fecha 10,1,Independiente
+2,Independiente,Campeonato 2016/17 - Fecha 24,0,Racing Club
+3,Racing Club,Campeonato 2016/17 - Fecha 11,0,Independiente
+0,Racing Club,Torneo 2016 - Fecha 12,0,Independiente
+1,Independiente,Torneo 2016 - Fecha 4,1,Racing Club
+1,Racing Club,Campeonato 2015 - Liguilla Libertadores,2,Independiente
+0,Independiente,Campeonato 2015 - Liguilla Libertadores,2,Racing Club
+3,Independiente,Campeonato 2015 - Fecha 24,0,Racing Club
+1,Racing Club,Campeonato 2015 - Fecha 13,0,Independiente
+2,Independiente,Torneo de Transicion 2014 - Fecha 5,1,Racing Club
+2,Independiente,Torneo Final 2013 - Fecha 3,0,Racing Club
+2,Racing Club,Torneo Inicial 2012 - Fecha 3,0,Independiente
+4,Independiente,Torneo Clausura 2012 - Fecha 10,1,Racing Club
+1,Racing Club,Torneo Apertura 2011 - Fecha 10,1,Independiente
+2,Racing Club,Torneo Clausura 2011 - Fecha 10,0,Independiente
+1,Independiente,Torneo Apertura 2010 - Fecha 10,0,Racing Club
+1,Independiente,Torneo Clausura 2010 - Fecha 6,0,Racing Club
+1,Racing Club,Torneo Apertura 2009 - Fecha 6,2,Independiente
+2,Independiente,Torneo Clausura 2009 - Fecha 3,0,Racing Club
+1,Racing Club,Torneo Apertura 2008 - Fecha 3,1,Independiente
+0,Independiente,Torneo Clausura 2008 - Fecha 17,0,Racing Club
+0,Racing Club,Torneo Apertura 2007 - Fecha 17,0,Independiente
+1,Racing Club,Torneo Clausura 2007 - Fecha 15,1,Independiente
+2,Independiente,Torneo Apertura 2006 - Fecha 15,0,Racing Club
+0,Racing Club,Torneo Clausura 2006 - Fecha 6,2,Independiente
+4,Independiente,Torneo Apertura 2005 - Fecha 6,0,Racing Club
+3,Racing Club,Torneo Clausura 2005 - Fecha 8,1,Independiente
+1,Independiente,Torneo Apertura 2004 - Fecha 8,0,Racing Club
+1,Independiente,Torneo Clausura 2004 - Fecha 15,3,Racing Club
+1,Racing Club,Torneo Apertura 2003 - Fecha 15,1,Independiente
+1,Independiente,Torneo Clausura 2003 - Fecha 4,1,Racing Club
+1,Racing Club,Torneo Apertura 2002 - Fecha 4,4,Independiente
+1,Racing Club,Torneo Clausura 2002 - Fecha 2,2,Independiente
+1,Independiente,Torneo Apertura 2001 - Fecha 2,1,Racing Club
+0,Independiente,Torneo Clausura 2001 - Fecha 19,1,Racing Club
+0,Racing Club,Torneo Apertura 2000 - Fecha 19,2,Independiente
+2,Independiente,Torneo Clausura 2000 - Fecha 11,1,Racing Club
+0,Racing Club,Torneo Apertura 1999 - Fecha 11,0,Independiente
+0,Racing Club,Torneo Clausura 1999 - Fecha 3,2,Independiente
+1,Independiente,Torneo Apertura 1998 - Fecha 3,3,Racing Club
+0,Racing Club,Torneo Clausura 1998 - Fecha 4,0,Independiente
+2,Independiente,Torneo Apertura 1997 - Fecha 4,0,Racing Club
+1,Racing Club,Torneo Clausura 1997 - Fecha 4,2,Independiente
+2,Independiente,Torneo Apertura 1996 - Fecha 4,2,Racing Club
+1,Racing Club,Torneo Clausura 1996 - Fecha 8,1,Independiente
+2,Independiente,Torneo Apertura 1995 - Fecha 8,2,Racing Club
+0,Independiente,Torneo Clausura 1995 - Fecha 3,0,Racing Club
+0,Racing Club,Torneo Apertura 1994 - Fecha 3,2,Independiente
+2,Independiente,Torneo Clausura 1994 - Fecha 8,2,Racing Club
+1,Racing Club,Torneo Apertura 1993 - Fecha 8,0,Independiente
+1,Racing Club,Torneo Clausura 1993 - Fecha 6,1,Independiente
+1,Independiente,Torneo Apertura 1992 - Fecha 6,1,Racing Club
+0,Independiente,Torneo Clausura 1992 - Fecha 5,0,Racing Club
+0,Racing Club,Torneo Apertura 1991 - Fecha 5,0,Independiente
+0,Racing Club,Torneo Clausura 1991 - Fecha 2,0,Independiente
+1,Independiente,Campeonato 1990/91 - Fecha 2,1,Racing Club
+1,Racing Club,Campeonato 1989/90 - Fecha 30,0,Independiente
+2,Independiente,Campeonato 1989/90 - Fecha 11,2,Racing Club
+0,Independiente,Campeonato 1988/89 - Fecha 36,0,Racing Club
+2,Racing Club,Campeonato 1988/89 - Fecha 17,1,Independiente
+3,Racing Club,Campeonato 1987/88 - Fecha 30,1,Independiente
+1,Independiente,Campeonato 1987/88 - Fecha 11,1,Racing Club
+2,Independiente,Campeonato 1986/87  - Fecha 21,2,Racing Club
+0,Racing Club,Campeonato 1986/87  - Fecha 2,0,Independiente
+2,Independiente,Metropolitano 1983 - Fecha 38,0,Racing Club
+1,Racing Club,Metropolitano 1983 - Fecha 19,2,Independiente
+3,Independiente,Metropolitano 1982 - Fecha 33,1,Racing Club
+0,Racing Club,Metropolitano 1982 - Fecha 14,2,Independiente
+1,Racing Club,Torneo Nacional 1982 - Torneo Nacional,2,Independiente
+1,Independiente,Torneo Nacional 1982 - Torneo Nacional,1,Racing Club
+0,Racing Club,Metropolitano 1981 - Fecha 24,0,Independiente
+1,Independiente,Metropolitano 1981 - Fecha 7,2,Racing Club
+1,Racing Club,Nacional 1981 - Fecha Intergrupo,2,Independiente
+0,Independiente,Nacional 1981 - Fecha Intergrupo,0,Racing Club
+1,Independiente,Metropolitano 1980 - Fecha 27,0,Racing Club
+1,Racing Club,Metropolitano 1980 - Fecha 8,1,Independiente
+1,Racing Club,Nacional 1980 - Fecha Intergrupo,2,Independiente
+1,Independiente,Nacional 1980 - Fecha Intergrupo,1,Racing Club
+2,Independiente,Nacional 1979 - Fecha Intergrupo,3,Racing Club
+2,Racing Club,Nacional 1979 - Fecha Intergrupo,3,Independiente
+1,Independiente,Metropolitano 1978 - Fecha 24,0,Racing Club
+3,Racing Club,Metropolitano 1978 - Fecha 3,2,Independiente
+0,Racing Club,Metropolitano 1977 - Fecha 36,0,Independiente
+0,Independiente,Metropolitano 1977 - Fecha 13,0,Racing Club
+1,Racing Club,Metropolitano 1976 - Fecha Intergrupo,3,Independiente
+4,Independiente,Metropolitano 1976 - Fecha Intergrupo,2,Racing Club
+1,Independiente,Nacional 1976 - Fecha Intergrupo,1,Racing Club
+1,Racing Club,Nacional 1976 - Fecha Intergrupo,2,Independiente
+4,Independiente,Metropolitano 1975 - Fecha 23,1,Racing Club
+1,Racing Club,Metropolitano 1975 - Fecha 4,5,Independiente
+1,Independiente,Nacional 1975 - Fecha Intergrupo,1,Racing Club
+5,Racing Club,Nacional 1975 - Fecha Intergrupo,4,Independiente
+1,Racing Club,Metropolitano 1974 - Fecha Intergrupo,5,Independiente
+4,Independiente,Metropolitano 1974 - Fecha Intergrupo,1,Racing Club
+1,Racing Club,Nacional 1974 - Fecha Intergrupo,1,Independiente
+2,Independiente,Nacional 1974 - Fecha Intergrupo,0,Racing Club
+0,Independiente,Metropolitano 1973 - Fecha 27,0,Racing Club
+0,Racing Club,Metropolitano 1973 - Fecha 10,0,Independiente
+1,Racing Club,Nacional 1973 - Fecha Intergrupo,3,Independiente
+2,Independiente,Metropolitano 1972 - Fecha 22,1,Racing Club
+1,Racing Club,Metropolitano 1972 - Fecha 5,1,Independiente
+1,Independiente,Nacional 1972 - Fecha Intergrupo,2,Racing Club
+1,Independiente,Metropolitano 1971 - Fecha 23,0,Racing Club
+3,Racing Club,Metropolitano 1971 - Fecha 4,3,Independiente
+2,Independiente,Nacional 1971 - Fecha Intergrupo,1,Racing Club
+2,Racing Club,Metropolitano 1970 - Fecha 21,3,Independiente
+2,Independiente,Nacional 1970 - Fecha Intergrupo,1,Racing Club
+2,Racing Club,Nacional 1970 - Fecha Intergrupo,2,Independiente
+2,Independiente,Metropolitano 1969 - Fecha Intergrupo,1,Racing Club
+2,Racing Club,Metropolitano 1969 - Fecha Intergrupo,2,Independiente
+1,Independiente,Nacional 1969 - Fecha 17,3,Racing Club
+2,Independiente,Metropolitano 1968 - Fecha Intergrupo,2,Racing Club
+1,Racing Club,Metropolitano 1968 - Fecha Intergrupo,0,Independiente
+4,Racing Club,Nacional 1968 - Fecha 5,1,Independiente
+2,Racing Club,Metropolitano 1967 - Semifinales,0,Independiente
+0,Independiente,Metropolitano 1967 - Fecha Intergrupo,3,Racing Club
+0,Racing Club,Metropolitano 1967 - Fecha Intergrupo,1,Independiente
+4,Independiente,Nacional 1967 - Fecha 15,0,Racing Club
+3,Racing Club,Campeonato 1966 - Fecha 37,3,Independiente
+0,Independiente,Campeonato 1966 - Fecha 18,2,Racing Club
+2,Racing Club,Campeonato 1965 - Fecha 23,0,Independiente
+2,Independiente,Campeonato 1965 - Fecha 6,2,Racing Club
+0,Racing Club,Campeonato 1964 - Fecha 18,1,Independiente
+3,Independiente,Campeonato 1964 - Fecha 3,1,Racing Club
+0,Independiente,Campeonato 1963 - Fecha 17,4,Racing Club
+0,Racing Club,Campeonato 1963 - Fecha 4,0,Independiente
+0,Independiente,Campeonato 1962 - Fecha 27,0,Racing Club
+2,Racing Club,Campeonato 1962 - Fecha 12,2,Independiente
+1,Racing Club,Campeonato 1961 - Fecha 29,1,Independiente
+4,Independiente,Campeonato 1961 - Fecha 14,0,Racing Club
+0,Racing Club,Campeonato 1960 - Fecha 29,0,Independiente
+3,Independiente,Campeonato 1960 - Fecha 14,3,Racing Club
+3,Independiente,Campeonato 1959 - Fecha 29,4,Racing Club
+1,Racing Club,Campeonato 1959 - Fecha 14,3,Independiente
+4,Racing Club,Campeonato 1958 - Fecha 18,1,Independiente
+1,Independiente,Campeonato 1958 - Fecha 3,1,Racing Club
+2,Independiente,Campeonato 1957 - Fecha 28,2,Racing Club
+2,Racing Club,Campeonato 1957 - Fecha 13,3,Independiente
+2,Independiente,Campeonato 1956 - Fecha 19,2,Racing Club
+2,Racing Club,Campeonato 1956 - Fecha 4,0,Independiente
+0,Independiente,Campeonato 1955 - Fecha 21,1,Racing Club
+1,Racing Club,Campeonato 1955 - Fecha 6,1,Independiente
+2,Independiente,Campeonato 1954 - Fecha 19,0,Racing Club
+1,Racing Club,Campeonato 1954 - Fecha 4,4,Independiente
+5,Independiente,Campeonato 1953 - Fecha 30,1,Racing Club
+3,Racing Club,Campeonato 1953 - Fecha 15,0,Independiente
+1,Racing Club,Campeonato 1952 - Fecha 30,0,Independiente
+1,Independiente,Campeonato 1952 - Fecha 15,1,Racing Club
+1,Racing Club,Campeonato 1951 - Fecha 27,0,Independiente
+1,Independiente,Campeonato 1951 - Fecha 10,1,Racing Club
+2,Independiente,Campeonato 1950 - Fecha 24,4,Racing Club
+3,Racing Club,Campeonato 1950 - Fecha 7,1,Independiente
+3,Racing Club,Campeonato 1949 - Fecha 27,0,Independiente
+2,Independiente,Campeonato 1949 - Fecha 10,5,Racing Club
+0,Racing Club,Campeonato 1948 - Fecha 27,1,Independiente
+2,Independiente,Campeonato 1948 - Fecha 12,3,Racing Club
+1,Independiente,Campeonato 1947 - Fecha 28,2,Racing Club
+3,Racing Club,Campeonato 1947 - Fecha 13,2,Independiente
+0,Independiente,Campeonato 1946 - Fecha 28,2,Racing Club
+1,Racing Club,Campeonato 1946 - Fecha 13,3,Independiente
+5,Independiente,Campeonato 1945 - Fecha 21,1,Racing Club
+0,Racing Club,Campeonato 1945 - Fecha 6,2,Independiente
+1,Independiente,Campeonato 1944 - Fecha 26,0,Racing Club
+4,Racing Club,Campeonato 1944 - Fecha 11,2,Independiente
+2,Racing Club,Campeonato 1943 - Fecha 28,2,Independiente
+1,Independiente,Campeonato 1943 - Fecha 13,2,Racing Club
+0,Independiente,Campeonato 1942 - Fecha 19,0,Racing Club
+1,Racing Club,Campeonato 1942 - Fecha 4,2,Independiente
+3,Racing Club,Campeonato 1941 - Fecha 30,1,Independiente
+3,Independiente,Campeonato 1941 - Fecha 15,1,Racing Club
+7,Independiente,Campeonato 1940 - Fecha 27,0,Racing Club
+1,Racing Club,Campeonato 1940 - Fecha 10,1,Independiente
+3,Independiente,Campeonato 1939 - Fecha 20,3,Racing Club
+2,Racing Club,Campeonato 1939 - Fecha 3,0,Independiente
+2,Racing Club,Campeonato 1938 - Fecha 27,3,Independiente
+2,Independiente,Campeonato 1938 - Fecha 10,2,Racing Club
+3,Independiente,Campeonato 1937 - Fecha 35,1,Racing Club
+1,Racing Club,Campeonato 1937 - Fecha 17,4,Independiente
+4,Racing Club,Campeonato 1936 - Fecha 14,2,Independiente
+1,Independiente,Copa de Honor 1936 - Fecha 14,1,Racing Club
+1,Racing Club,Campeonato 1935 - Fecha 22,3,Independiente
+2,Independiente,Campeonato 1935 - Fecha 5,0,Racing Club
+1,Independiente,Campeonato 1934 - Fecha 32,1,Racing Club
+1,Independiente,Campeonato 1934 - Fecha 15,3,Racing Club
+0,Racing Club,Campeonato 1934 - Fecha 2,1,Independiente
+2,Independiente,Campeonato 1933 - Fecha 19,1,Racing Club
+2,Racing Club,Campeonato 1933 - Fecha 2,1,Independiente
+0,Independiente,Campeonato 1932 - Fecha 34,1,Racing Club
+0,Racing Club,Campeonato 1932 - Fecha 17,2,Independiente
+7,Racing Club,Campeonato 1931 - Fecha 18,4,Independiente
+1,Independiente,Campeonato 1931 - Fecha 1,4,Racing Club
+1,Huracan,Superliga 2017/18 - Fecha 19,1,San Lorenzo
+0,Huracan,Campeonato 2016/17 - Fecha 24,1,San Lorenzo
+2,San Lorenzo,Campeonato 2016/17 - Fecha 9,0,Huracan
+1,San Lorenzo,Torneo 2016 - Fecha 12,0,Huracan
+1,Huracan,Torneo 2016 - Fecha 5,1,San Lorenzo
+1,Huracan,Campeonato 2015 - Fecha 24,0,San Lorenzo
+3,San Lorenzo,Campeonato 2015 - Fecha 5,1,Huracan
+3,San Lorenzo,Torneo Clausura 2011 - Fecha 12,0,Huracan
+3,Huracan,Torneo Apertura 2010 - Fecha 12,0,San Lorenzo
+3,San Lorenzo,Torneo Clausura 2010 - Fecha 15,0,Huracan
+0,Huracan,Torneo Apertura 2009 - Fecha 15,2,San Lorenzo
+0,San Lorenzo,Torneo Clausura 2009 - Fecha 17,1,Huracan
+1,Huracan,Torneo Apertura 2008 - Fecha 17,4,San Lorenzo
+0,Huracan,Torneo Clausura 2008 - Fecha 15,0,San Lorenzo
+1,San Lorenzo,Torneo Apertura 2007 - Fecha 15,1,Huracan
+4,San Lorenzo,Torneo Clausura 2003 - Fecha 16,0,Huracan
+0,Huracan,Torneo Apertura 2002 - Fecha 16,4,San Lorenzo
+1,Huracan,Torneo Clausura 2002 - Fecha 17,1,San Lorenzo
+0,San Lorenzo,Torneo Apertura 2001 - Fecha 17,1,Huracan
+1,San Lorenzo,Torneo Clausura 2001 - Fecha 6,1,Huracan
+2,Huracan,Torneo Apertura 2000 - Fecha 6,1,San Lorenzo
+1,Huracan,Torneo Clausura 1999 - Fecha 16,1,San Lorenzo
+2,San Lorenzo,Torneo Apertura 1998 - Fecha 16,0,Huracan
+2,Huracan,Torneo Clausura 1998 - Fecha 19,1,San Lorenzo
+0,San Lorenzo,Torneo Apertura 1997 - Fecha 19,0,Huracan
+5,San Lorenzo,Torneo Clausura 1997 - Fecha 2,1,Huracan
+1,Huracan,Torneo Apertura 1996 - Fecha 2,1,San Lorenzo
+1,Huracan,Torneo Clausura 1996 - Fecha 6,1,San Lorenzo
+5,San Lorenzo,Torneo Apertura 1995 - Fecha 6,0,Huracan
+3,San Lorenzo,Torneo Clausura 1995 - Fecha 14,0,Huracan
+1,Huracan,Torneo Apertura 1994 - Fecha 14,2,San Lorenzo
+2,Huracan,Torneo Clausura 1994 - Fecha 12,1,San Lorenzo
+1,San Lorenzo,Torneo Apertura 1993 - Fecha 12,0,Huracan
+1,San Lorenzo,Torneo Clausura 1993 - Fecha 16,0,Huracan
+1,Huracan,Torneo Apertura 1992 - Fecha 16,0,San Lorenzo
+2,San Lorenzo,Torneo Clausura 1992 - Fecha 15,2,Huracan
+2,Huracan,Torneo Apertura 1991 - Fecha 15,2,San Lorenzo
+0,San Lorenzo,Torneo Clausura 1991 - Fecha 4,1,Huracan
+0,Huracan,Campeonato 1990/91 - Fecha 4,0,San Lorenzo
+1,Huracan,Campeonato 1985/86  - Fecha 38,1,San Lorenzo
+0,San Lorenzo,Campeonato 1985/86  - Fecha 19,0,Huracan
+1,San Lorenzo,Metropolitano 1984 - Fecha 37,1,Huracan
+2,Huracan,Metropolitano 1984 - Fecha 18,2,San Lorenzo
+2,San Lorenzo,Metropolitano 1983 - Fecha 23,1,Huracan
+2,Huracan,Metropolitano 1983 - Fecha 4,2,San Lorenzo
+0,San Lorenzo,Metropolitano 1981 - Fecha 25,1,Huracan
+1,Huracan,Metropolitano 1981 - Fecha 8,3,San Lorenzo
+1,Huracan,Metropolitano 1980 - Fecha 30,0,San Lorenzo
+2,San Lorenzo,Metropolitano 1980 - Fecha 11,1,Huracan
+2,Huracan,Nacional 1980 - Fecha Intergrupo,3,San Lorenzo
+1,San Lorenzo,Nacional 1980 - Fecha Intergrupo,2,Huracan
+1,Huracan,Nacional 1979 - Fecha Intergrupo,3,San Lorenzo
+1,San Lorenzo,Nacional 1979 - Fecha Intergrupo,2,Huracan
+2,San Lorenzo,Metropolitano 1978 - Fecha 42,1,Huracan
+2,Huracan,Metropolitano 1978 - Fecha 21,3,San Lorenzo
+1,Huracan,Metropolitano 1977 - Fecha 45,0,San Lorenzo
+2,San Lorenzo,Metropolitano 1977 - Fecha 22,2,Huracan
+4,Huracan,Metropolitano 1976 - Ronda Final,2,San Lorenzo
+1,San Lorenzo,Metropolitano 1976 - Fecha Intergrupo,3,Huracan
+3,Huracan,Metropolitano 1976 - Fecha Intergrupo,1,San Lorenzo
+2,Huracan,Nacional 1976 - Fecha Intergrupo,1,San Lorenzo
+1,San Lorenzo,Nacional 1976 - Fecha Intergrupo,2,Huracan
+1,Huracan,Metropolitano 1975 - Fecha 38,1,San Lorenzo
+1,San Lorenzo,Metropolitano 1975 - Fecha 19,0,Huracan
+2,San Lorenzo,Nacional 1975 - Fecha Intergrupo,2,Huracan
+0,Huracan,Nacional 1975 - Fecha Intergrupo,1,San Lorenzo
+0,San Lorenzo,Metropolitano 1974 - Fecha Intergrupo,2,Huracan
+0,Huracan,Metropolitano 1974 - Fecha Intergrupo,2,San Lorenzo
+2,San Lorenzo,Nacional 1974 - Fecha Intergrupo,2,Huracan
+2,Huracan,Nacional 1974 - Fecha Intergrupo,0,San Lorenzo
+1,San Lorenzo,Metropolitano 1973 - Fecha 33,0,Huracan
+2,Huracan,Metropolitano 1973 - Fecha 16,2,San Lorenzo
+2,San Lorenzo,Nacional 1973 - Fecha Intergrupo,2,Huracan
+3,Huracan,Metropolitano 1972 - Fecha 31,0,San Lorenzo
+2,San Lorenzo,Metropolitano 1972 - Fecha 14,2,Huracan
+3,San Lorenzo,Nacional 1972 - Fecha Intergrupo,0,Huracan
+2,San Lorenzo,Metropolitano 1971 - Fecha 25,0,Huracan
+1,Huracan,Metropolitano 1971 - Fecha 6,5,San Lorenzo
+0,Huracan,Nacional 1971 - Fecha Intergrupo,3,San Lorenzo
+3,Huracan,Metropolitano 1970 - Fecha 8,2,San Lorenzo
+3,Huracan,Metropolitano 1969 - Fecha Intergrupo,1,San Lorenzo
+1,San Lorenzo,Metropolitano 1969 - Fecha Intergrupo,2,Huracan
+2,San Lorenzo,Nacional 1969 - Fecha 17,1,Huracan
+2,San Lorenzo,Metropolitano 1968 - Fecha Intergrupo,2,Huracan
+0,Huracan,Metropolitano 1968 - Fecha Intergrupo,0,San Lorenzo
+3,San Lorenzo,Nacional 1968 - Fecha 5,1,Huracan
+2,San Lorenzo,Metropolitano 1967 - Fecha Intergrupo,1,Huracan
+0,Huracan,Metropolitano 1967 - Fecha Intergrupo,2,San Lorenzo
+4,San Lorenzo,Campeonato 1966 - Fecha 29,1,Huracan
+1,Huracan,Campeonato 1966 - Fecha 10,2,San Lorenzo
+4,San Lorenzo,Campeonato 1965 - Fecha 34,2,Huracan
+0,Huracan,Campeonato 1965 - Fecha 17,1,San Lorenzo
+3,San Lorenzo,Campeonato 1964 - Fecha 27,0,Huracan
+0,Huracan,Campeonato 1964 - Fecha 12,0,San Lorenzo
+0,Huracan,Campeonato 1963 - Fecha 22,0,San Lorenzo
+3,San Lorenzo,Campeonato 1963 - Fecha 9,1,Huracan
+2,San Lorenzo,Campeonato 1962 - Fecha 18,2,Huracan
+1,Huracan,Campeonato 1962 - Fecha 3,0,San Lorenzo
+0,Huracan,Campeonato 1961 - Fecha 18,0,San Lorenzo
+5,San Lorenzo,Campeonato 1961 - Fecha 1,2,Huracan
+2,Huracan,Campeonato 1960 - Fecha 27,4,San Lorenzo
+2,San Lorenzo,Campeonato 1960 - Fecha 12,0,Huracan
+6,San Lorenzo,Campeonato 1959 - Fecha 27,3,Huracan
+1,Huracan,Campeonato 1959 - Fecha 12,4,San Lorenzo
+2,Huracan,Campeonato 1958 - Fecha 27,4,San Lorenzo
+3,San Lorenzo,Campeonato 1958 - Fecha 12,1,Huracan
+1,San Lorenzo,Campeonato 1957 - Fecha 19,0,Huracan
+3,Huracan,Campeonato 1957 - Fecha 4,5,San Lorenzo
+0,San Lorenzo,Campeonato 1956 - Fecha 24,1,Huracan
+2,Huracan,Campeonato 1956 - Fecha 9,4,San Lorenzo
+2,Huracan,Campeonato 1955 - Fecha 30,3,San Lorenzo
+0,San Lorenzo,Campeonato 1955 - Fecha 15,0,Huracan
+1,Huracan,Campeonato 1954 - Fecha 24,1,San Lorenzo
+2,San Lorenzo,Campeonato 1954 - Fecha 9,1,Huracan
+3,San Lorenzo,Campeonato 1953 - Fecha 24,1,Huracan
+1,Huracan,Campeonato 1953 - Fecha 9,0,San Lorenzo
+2,Huracan,Campeonato 1952 - Fecha 17,3,San Lorenzo
+0,San Lorenzo,Campeonato 1952 - Fecha 2,1,Huracan
+2,San Lorenzo,Campeonato 1951 - Fecha 20,2,Huracan
+4,Huracan,Campeonato 1951 - Fecha 3,4,San Lorenzo
+2,San Lorenzo,Campeonato 1950 - Fecha 20,3,Huracan
+1,Huracan,Campeonato 1950 - Fecha 3,3,San Lorenzo
+0,San Lorenzo,Campeonato 1949 - Fecha 28,1,Huracan
+1,Huracan,Campeonato 1949 - Fecha 11,1,San Lorenzo
+1,Huracan,Campeonato 1948 - Fecha 16,2,San Lorenzo
+0,San Lorenzo,Campeonato 1948 - Fecha 1,1,Huracan
+3,San Lorenzo,Campeonato 1947 - Fecha 21,3,Huracan
+1,Huracan,Campeonato 1947 - Fecha 6,1,San Lorenzo
+0,Huracan,Campeonato 1946 - Fecha 21,2,San Lorenzo
+2,San Lorenzo,Campeonato 1946 - Fecha 6,3,Huracan
+3,Huracan,Campeonato 1945 - Fecha 24,1,San Lorenzo
+4,San Lorenzo,Campeonato 1945 - Fecha 9,2,Huracan
+2,San Lorenzo,Campeonato 1944 - Fecha 16,2,Huracan
+5,Huracan,Campeonato 1944 - Fecha 1,1,San Lorenzo
+2,San Lorenzo,Campeonato 1943 - Fecha 30,0,Huracan
+1,Huracan,Campeonato 1943 - Fecha 15,1,San Lorenzo
+1,Huracan,Campeonato 1942 - Fecha 17,3,San Lorenzo
+2,San Lorenzo,Campeonato 1942 - Fecha 2,1,Huracan
+0,Huracan,Campeonato 1941 - Fecha 19,3,San Lorenzo
+5,San Lorenzo,Campeonato 1941 - Fecha 4,2,Huracan
+3,San Lorenzo,Campeonato 1940 - Fecha 18,3,Huracan
+2,Huracan,Campeonato 1940 - Fecha 1,4,San Lorenzo
+2,San Lorenzo,Campeonato 1939 - Fecha 24,5,Huracan
+3,Huracan,Campeonato 1939 - Fecha 7,2,San Lorenzo
+1,Huracan,Campeonato 1938 - Fecha 29,2,San Lorenzo
+4,San Lorenzo,Campeonato 1938 - Fecha 12,2,Huracan
+0,Huracan,Campeonato 1937 - Fecha 30,1,San Lorenzo
+1,San Lorenzo,Campeonato 1937 - Fecha 12,0,Huracan
+2,San Lorenzo,Campeonato 1936 - Fecha 5,1,Huracan
+1,Huracan,Copa de Honor 1936 - Fecha 5,0,San Lorenzo
+3,San Lorenzo,Campeonato 1935 - Fecha 29,0,Huracan
+2,Huracan,Campeonato 1935 - Fecha 12,1,San Lorenzo
+2,Huracan,Campeonato 1934 - Fecha 32,1,San Lorenzo
+5,San Lorenzo,Campeonato 1934 - Fecha 16,1,Huracan
+0,Huracan,Campeonato 1934 - Fecha 3,3,San Lorenzo
+1,San Lorenzo,Campeonato 1933 - Fecha 21,4,Huracan
+1,Huracan,Campeonato 1933 - Fecha 4,2,San Lorenzo
+2,Huracan,Campeonato 1932 - Fecha 19,0,San Lorenzo
+2,San Lorenzo,Campeonato 1932 - Fecha 2,1,Huracan
+1,Huracan,Campeonato 1931 - Fecha 26,1,San Lorenzo
+3,San Lorenzo,Campeonato 1931 - Fecha 9,0,Huracan
+1,Rosario Central,Superliga 2017/18 - Fecha 12,0,Newells
+1,Newells,Campeonato 2016/17 - Fecha 24,3,Rosario Central
+0,Rosario Central,Campeonato 2016/17 - Fecha 7,1,Newells
+0,Newells,Torneo 2016 - Fecha 12,0,Rosario Central
+2,Rosario Central,Torneo 2016 - Fecha 2,0,Newells
+0,Rosario Central,Campeonato 2015 - Fecha 24,0,Newells
+0,Newells,Campeonato 2015 - Fecha 18,1,Rosario Central
+2,Rosario Central,Torneo de Transicion 2014 - Fecha 12,0,Newells
+0,Newells,Torneo Final 2014 - Fecha 12,1,Rosario Central
+2,Rosario Central,Torneo Inicial 2013 - Fecha 12,1,Newells
+1,Rosario Central,Torneo Clausura 2010 - Fecha 15,1,Newells
+2,Newells,Torneo Apertura 2009 - Fecha 15,2,Rosario Central
+1,Rosario Central,Torneo Clausura 2009 - Fecha 13,1,Newells
+1,Newells,Torneo Apertura 2008 - Fecha 13,0,Rosario Central
+0,Rosario Central,Torneo Clausura 2008 - Fecha 9,1,Newells
+0,Newells,Torneo Apertura 2007 - Fecha 9,1,Rosario Central
+1,Newells,Torneo Clausura 2007 - Fecha 13,0,Rosario Central
+4,Rosario Central,Torneo Apertura 2006 - Fecha 13,1,Newells
+0,Rosario Central,Torneo Clausura 2006 - Fecha 13,0,Newells
+2,Newells,Torneo Apertura 2005 - Fecha 13,1,Rosario Central
+0,Newells,Torneo Clausura 2005 - Fecha 2,0,Rosario Central
+0,Rosario Central,Torneo Apertura 2004 - Fecha 2,1,Newells
+0,Rosario Central,Torneo Clausura 2004 - Fecha 10,0,Newells
+1,Newells,Torneo Apertura 2003 - Fecha 10,1,Rosario Central
+3,Rosario Central,Torneo Clausura 2003 - Fecha 6,0,Newells
+0,Newells,Torneo Apertura 2002 - Fecha 6,2,Rosario Central
+0,Rosario Central,Torneo Clausura 2002 - Fecha 13,0,Newells
+1,Newells,Torneo Apertura 2001 - Fecha 13,1,Rosario Central
+1,Rosario Central,Torneo Clausura 2001 - Fecha 17,2,Newells
+0,Newells,Torneo Apertura 2000 - Fecha 17,0,Rosario Central
+1,Rosario Central,Torneo Clausura 2000 - Fecha 3,1,Newells
+1,Newells,Torneo Apertura 1999 - Fecha 3,1,Rosario Central
+4,Newells,Torneo Clausura 1999 - Fecha 1,1,Rosario Central
+1,Rosario Central,Torneo Apertura 1998 - Fecha 1,1,Newells
+0,Newells,Torneo Clausura 1998 - Fecha 14,0,Rosario Central
+4,Rosario Central,Torneo Apertura 1997 - Fecha 14,0,Newells
+0,Newells,Torneo Clausura 1997 - Fecha 10,0,Rosario Central
+1,Rosario Central,Torneo Apertura 1996 - Fecha 10,1,Newells
+2,Newells,Torneo Clausura 1996 - Fecha 14,0,Rosario Central
+2,Rosario Central,Torneo Apertura 1995 - Fecha 14,0,Newells
+1,Newells,Torneo Clausura 1995 - Fecha 5,1,Rosario Central
+0,Rosario Central,Torneo Apertura 1994 - Fecha 5,0,Newells
+0,Rosario Central,Torneo Clausura 1994 - Fecha 2,0,Newells
+1,Newells,Torneo Apertura 1993 - Fecha 2,1,Rosario Central
+1,Newells,Torneo Clausura 1993 - Fecha 2,1,Rosario Central
+2,Rosario Central,Torneo Apertura 1992 - Fecha 2,1,Newells
+1,Newells,Torneo Clausura 1992 - Fecha 3,0,Rosario Central
+1,Rosario Central,Torneo Apertura 1991 - Fecha 3,0,Newells
+4,Newells,Torneo Clausura 1991 - Fecha 8,0,Rosario Central
+3,Rosario Central,Campeonato 1990/91 - Fecha 8,4,Newells
+0,Rosario Central,Campeonato 1989/90 - Fecha 38,0,Newells
+2,Newells,Campeonato 1989/90 - Fecha 19,2,Rosario Central
+5,Newells,Campeonato 1988/89 - Liguilla Libertadores,3,Rosario Central
+1,Rosario Central,Campeonato 1988/89 - Liguilla Libertadores,1,Newells
+2,Rosario Central,Campeonato 1988/89 - Fecha 32,1,Newells
+0,Newells,Campeonato 1988/89 - Fecha 13,0,Rosario Central
+1,Newells,Campeonato 1987/88 - Fecha 23,0,Rosario Central
+1,Rosario Central,Campeonato 1987/88 - Fecha 4,0,Newells
+0,Newells,Campeonato 1986/87  - Fecha 25,0,Rosario Central
+0,Rosario Central,Campeonato 1986/87  - Fecha 6,0,Newells
+0,Rosario Central,Metropolitano 1984 - Fecha 23,0,Newells
+2,Newells,Metropolitano 1984 - Fecha 4,1,Rosario Central
+3,Newells,Metropolitano 1983 - Fecha 21,3,Rosario Central
+2,Rosario Central,Metropolitano 1983 - Fecha 2,1,Newells
+2,Rosario Central,Torneo Nacional 1983 - Torneo Nacional,0,Newells
+0,Newells,Torneo Nacional 1983 - Torneo Nacional,0,Rosario Central
+1,Rosario Central,Metropolitano 1982 - Fecha 27,1,Newells
+1,Newells,Metropolitano 1982 - Fecha 8,1,Rosario Central
+2,Rosario Central,Torneo Nacional 1982 - Torneo Nacional,1,Newells
+2,Newells,Torneo Nacional 1982 - Torneo Nacional,1,Rosario Central
+0,Rosario Central,Metropolitano 1981 - Fecha 22,0,Newells
+3,Newells,Metropolitano 1981 - Fecha 5,0,Rosario Central
+1,Newells,Nacional 1981 - Fecha Intergrupo,1,Rosario Central
+3,Rosario Central,Nacional 1981 - Fecha Intergrupo,1,Newells
+0,Newells,Metropolitano 1980 - Fecha 21,1,Rosario Central
+0,Rosario Central,Metropolitano 1980 - Fecha 2,3,Newells
+1,Newells,Nacional 1980 - Semifinales,0,Rosario Central
+3,Rosario Central,Nacional 1980 - Semifinales,0,Newells
+2,Rosario Central,Nacional 1980 - Fecha Intergrupo,1,Newells
+1,Newells,Nacional 1980 - Fecha Intergrupo,0,Rosario Central
+0,Newells,Nacional 1979 - Fecha Intergrupo,1,Rosario Central
+2,Rosario Central,Nacional 1979 - Fecha Intergrupo,2,Newells
+3,Newells,Metropolitano 1978 - Fecha 35,1,Rosario Central
+3,Rosario Central,Metropolitano 1978 - Fecha 14,1,Newells
+2,Newells,Metropolitano 1977 - Fecha 38,1,Rosario Central
+1,Rosario Central,Metropolitano 1977 - Fecha 15,1,Newells
+0,Rosario Central,Metropolitano 1976 - Ronda Final,0,Newells
+1,Rosario Central,Metropolitano 1976 - Fecha Intergrupo,1,Newells
+1,Newells,Metropolitano 1976 - Fecha Intergrupo,1,Rosario Central
+2,Newells,Nacional 1976 - Fecha Intergrupo,0,Rosario Central
+1,Rosario Central,Nacional 1976 - Fecha Intergrupo,1,Newells
+1,Rosario Central,Metropolitano 1975 - Fecha 32,1,Newells
+1,Newells,Metropolitano 1975 - Fecha 13,1,Rosario Central
+1,Newells,Nacional 1975 - Fecha Intergrupo,1,Rosario Central
+3,Rosario Central,Nacional 1975 - Fecha Intergrupo,0,Newells
+2,Rosario Central,Metropolitano 1974 - Ronda Final,2,Newells
+3,Rosario Central,Metropolitano 1974 - Fecha Intergrupo,0,Newells
+4,Newells,Metropolitano 1974 - Fecha Intergrupo,2,Rosario Central
+2,Newells,Nacional 1974 - Ronda Final,2,Rosario Central
+2,Rosario Central,Nacional 1974 - Desempate para Libertadores,0,Newells
+0,Rosario Central,Nacional 1974 - Fecha Intergrupo,0,Newells
+0,Newells,Nacional 1974 - Fecha Intergrupo,0,Rosario Central
+0,Newells,Metropolitano 1973 - Fecha 22,1,Rosario Central
+4,Rosario Central,Metropolitano 1973 - Fecha 5,1,Newells
+1,Newells,Nacional 1973 - Fecha Intergrupo,1,Rosario Central
+0,Rosario Central,Metropolitano 1972 - Fecha 18,0,Newells
+1,Newells,Metropolitano 1972 - Fecha 1,0,Rosario Central
+1,Newells,Nacional 1972 - Fecha Intergrupo,0,Rosario Central
+1,Newells,Metropolitano 1971 - Fecha 36,2,Rosario Central
+2,Rosario Central,Metropolitano 1971 - Fecha 17,2,Newells
+1,Rosario Central,Nacional 1971 - Semifinales,0,Newells
+0,Newells,Nacional 1971 - Fecha Intergrupo,0,Rosario Central
+1,Newells,Metropolitano 1970 - Fecha 21,1,Rosario Central
+1,Newells,Nacional 1970 - Fecha Intergrupo,4,Rosario Central
+3,Rosario Central,Nacional 1970 - Fecha Intergrupo,1,Newells
+0,Newells,Metropolitano 1969 - Fecha Intergrupo,0,Rosario Central
+2,Rosario Central,Metropolitano 1969 - Fecha Intergrupo,2,Newells
+1,Newells,Metropolitano 1969 - Grupo Reclasificatorio,0,Rosario Central
+0,Rosario Central,Metropolitano 1969 - Grupo Reclasificatorio,0,Newells
+2,Newells,Metropolitano 1969 - Grupo Reclasificatorio,2,Rosario Central
+1,Newells,Metropolitano 1968 - Fecha Intergrupo,1,Rosario Central
+1,Rosario Central,Metropolitano 1968 - Fecha Intergrupo,1,Newells
+1,Newells,Metropolitano 1967 - Fecha Intergrupo,2,Rosario Central
+1,Rosario Central,Metropolitano 1967 - Fecha Intergrupo,0,Newells
+0,Newells,Campeonato 1966 - Fecha 35,2,Rosario Central
+0,Rosario Central,Campeonato 1966 - Fecha 16,0,Newells
+0,Rosario Central,Campeonato 1965 - Fecha 26,1,Newells
+1,Newells,Campeonato 1965 - Fecha 9,0,Rosario Central
+2,Rosario Central,Campeonato 1964 - Fecha 16,2,Newells
+0,Newells,Campeonato 1964 - Fecha 1,4,Rosario Central
+4,Rosario Central,Campeonato 1960 - Fecha 20,1,Newells
+5,Newells,Campeonato 1960 - Fecha 5,3,Rosario Central
+1,Newells,Campeonato 1959 - Fecha 16,0,Rosario Central
+0,Rosario Central,Campeonato 1959 - Fecha 1,0,Newells
+1,Rosario Central,Campeonato 1958 - Fecha 29,0,Newells
+1,Newells,Campeonato 1958 - Fecha 14,1,Rosario Central
+3,Rosario Central,Campeonato 1957 - Fecha 21,1,Newells
+1,Newells,Campeonato 1957 - Fecha 6,1,Rosario Central
+1,Rosario Central,Campeonato 1956 - Fecha 30,2,Newells
+2,Newells,Campeonato 1956 - Fecha 15,0,Rosario Central
+1,Newells,Campeonato 1955 - Fecha 28,2,Rosario Central
+1,Rosario Central,Campeonato 1955 - Fecha 13,1,Newells
+3,Newells,Campeonato 1954 - Fecha 17,2,Rosario Central
+2,Rosario Central,Campeonato 1954 - Fecha 2,0,Newells
+0,Rosario Central,Campeonato 1953 - Fecha 19,0,Newells
+1,Newells,Campeonato 1953 - Fecha 4,3,Rosario Central
+0,Newells,Campeonato 1952 - Fecha 21,2,Rosario Central
+0,Rosario Central,Campeonato 1952 - Fecha 6,0,Newells
+1,Rosario Central,Campeonato 1950 - Fecha 27,1,Newells
+3,Newells,Campeonato 1950 - Fecha 10,4,Rosario Central
+2,Newells,Campeonato 1949 - Fecha 18,2,Rosario Central
+2,Rosario Central,Campeonato 1949 - Fecha 1,3,Newells
+3,Rosario Central,Campeonato 1948 - Fecha 30,2,Newells
+2,Newells,Campeonato 1948 - Fecha 15,0,Rosario Central
+1,Rosario Central,Campeonato 1947 - Fecha 26,1,Newells
+4,Newells,Campeonato 1947 - Fecha 11,2,Rosario Central
+3,Rosario Central,Campeonato 1946 - Fecha 30,2,Newells
+3,Newells,Campeonato 1946 - Fecha 15,2,Rosario Central
+1,Newells,Campeonato 1945 - Fecha 17,0,Rosario Central
+2,Rosario Central,Campeonato 1945 - Fecha 2,0,Newells
+1,Newells,Campeonato 1944 - Fecha 24,1,Rosario Central
+1,Rosario Central,Campeonato 1944 - Fecha 9,3,Newells
+1,Rosario Central,Campeonato 1943 - Fecha 30,1,Newells
+0,Newells,Campeonato 1943 - Fecha 15,1,Rosario Central
+5,Newells,Campeonato 1941 - Fecha 28,0,Rosario Central
+0,Rosario Central,Campeonato 1941 - Fecha 13,1,Newells
+0,Rosario Central,Campeonato 1940 - Fecha 31,2,Newells
+1,Newells,Campeonato 1940 - Fecha 14,3,Rosario Central
+1,Rosario Central,Campeonato 1939 - Fecha 31,1,Newells
+1,Newells,Campeonato 1939 - Fecha 14,1,Rosario Central
+0,Gimnasia (LP),Superliga 2017/18 - Fecha 15,0,Estudiantes (LP)
+1,Estudiantes (LP),Campeonato 2016/17 - Fecha 24,0,Gimnasia (LP)
+0,Gimnasia (LP),Campeonato 2016/17 - Fecha 5,0,Estudiantes (LP)
+0,Gimnasia (LP),Torneo 2016 - Fecha 12,0,Estudiantes (LP)
+3,Estudiantes (LP),Torneo 2016 - Fecha 7,0,Gimnasia (LP)
+1,Estudiantes (LP),Campeonato 2015 - Fecha 24,1,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 2015 - Fecha 3,3,Estudiantes (LP)
+0,Estudiantes (LP),Torneo de Transicion 2014 - Fecha 8,0,Gimnasia (LP)
+0,Gimnasia (LP),Torneo Final 2014 - Fecha 8,1,Estudiantes (LP)
+1,Estudiantes (LP),Torneo Inicial 2013 - Fecha 8,1,Gimnasia (LP)
+0,Gimnasia (LP),Torneo Clausura 2011 - Fecha 4,2,Estudiantes (LP)
+2,Estudiantes (LP),Torneo Apertura 2010 - Fecha 4,0,Gimnasia (LP)
+3,Gimnasia (LP),Torneo Clausura 2010 - Fecha 2,1,Estudiantes (LP)
+3,Estudiantes (LP),Torneo Apertura 2009 - Fecha 2,0,Gimnasia (LP)
+1,Gimnasia (LP),Torneo Clausura 2009 - Fecha 8,1,Estudiantes (LP)
+3,Estudiantes (LP),Torneo Apertura 2008 - Fecha 8,1,Gimnasia (LP)
+1,Gimnasia (LP),Torneo Clausura 2008 - Fecha 15,2,Estudiantes (LP)
+1,Estudiantes (LP),Torneo Apertura 2007 - Fecha 15,0,Gimnasia (LP)
+1,Gimnasia (LP),Torneo Clausura 2007 - Fecha 11,2,Estudiantes (LP)
+7,Estudiantes (LP),Torneo Apertura 2006 - Fecha 11,0,Gimnasia (LP)
+1,Gimnasia (LP),Torneo Clausura 2006 - Fecha 4,1,Estudiantes (LP)
+1,Estudiantes (LP),Torneo Apertura 2005 - Fecha 4,0,Gimnasia (LP)
+4,Gimnasia (LP),Torneo Clausura 2005 - Fecha 16,1,Estudiantes (LP)
+0,Estudiantes (LP),Torneo Apertura 2004 - Fecha 16,0,Gimnasia (LP)
+2,Gimnasia (LP),Torneo Clausura 2004 - Fecha 8,2,Estudiantes (LP)
+1,Estudiantes (LP),Torneo Apertura 2003 - Fecha 8,0,Gimnasia (LP)
+2,Estudiantes (LP),Torneo Clausura 2003 - Fecha 10,4,Gimnasia (LP)
+3,Gimnasia (LP),Torneo Apertura 2002 - Fecha 10,1,Estudiantes (LP)
+3,Estudiantes (LP),Torneo Clausura 2002 - Fecha 2,2,Gimnasia (LP)
+1,Gimnasia (LP),Torneo Apertura 2001 - Fecha 2,1,Estudiantes (LP)
+2,Estudiantes (LP),Torneo Clausura 2001 - Fecha 6,1,Gimnasia (LP)
+3,Gimnasia (LP),Torneo Apertura 2000 - Fecha 6,2,Estudiantes (LP)
+1,Estudiantes (LP),Torneo Clausura 2000 - Fecha 7,2,Gimnasia (LP)
+0,Gimnasia (LP),Torneo Apertura 1999 - Fecha 7,0,Estudiantes (LP)
+0,Gimnasia (LP),Torneo Clausura 1999 - Fecha 14,0,Estudiantes (LP)
+2,Estudiantes (LP),Torneo Apertura 1998 - Fecha 14,2,Gimnasia (LP)
+3,Gimnasia (LP),Torneo Clausura 1998 - Fecha 2,0,Estudiantes (LP)
+2,Estudiantes (LP),Torneo Apertura 1997 - Fecha 2,2,Gimnasia (LP)
+1,Estudiantes (LP),Torneo Clausura 1997 - Fecha 15,0,Gimnasia (LP)
+0,Gimnasia (LP),Torneo Apertura 1996 - Fecha 15,0,Estudiantes (LP)
+1,Estudiantes (LP),Torneo Clausura 1996 - Fecha 19,1,Gimnasia (LP)
+0,Gimnasia (LP),Torneo Apertura 1995 - Fecha 19,3,Estudiantes (LP)
+2,Gimnasia (LP),Torneo Clausura 1994 - Fecha 10,1,Estudiantes (LP)
+0,Estudiantes (LP),Torneo Apertura 1993 - Fecha 10,2,Gimnasia (LP)
+0,Gimnasia (LP),Torneo Clausura 1993 - Fecha 4,0,Estudiantes (LP)
+1,Estudiantes (LP),Torneo Apertura 1992 - Fecha 4,1,Gimnasia (LP)
+0,Estudiantes (LP),Torneo Clausura 1992 - Fecha 7,1,Gimnasia (LP)
+2,Gimnasia (LP),Torneo Apertura 1991 - Fecha 7,0,Estudiantes (LP)
+0,Gimnasia (LP),Torneo Clausura 1991 - Fecha 19,2,Estudiantes (LP)
+0,Estudiantes (LP),Campeonato 1990/91 - Fecha 19,0,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1989/90 - Fecha 32,1,Estudiantes (LP)
+0,Estudiantes (LP),Campeonato 1989/90 - Fecha 13,0,Gimnasia (LP)
+1,Estudiantes (LP),Campeonato 1988/89 - Fecha 34,1,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1988/89 - Fecha 15,0,Estudiantes (LP)
+2,Gimnasia (LP),Campeonato 1987/88 - Fecha 25,2,Estudiantes (LP)
+1,Estudiantes (LP),Campeonato 1987/88 - Fecha 6,1,Gimnasia (LP)
+0,Estudiantes (LP),Campeonato 1986/87  - Fecha 27,0,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1986/87  - Fecha 8,1,Estudiantes (LP)
+1,Gimnasia (LP),Campeonato 1985/86  - Fecha 30,0,Estudiantes (LP)
+1,Estudiantes (LP),Campeonato 1985/86  - Fecha 11,0,Gimnasia (LP)
+1,Estudiantes (LP),Metropolitano 1978 - Fecha 22,1,Gimnasia (LP)
+1,Gimnasia (LP),Metropolitano 1978 - Fecha 1,0,Estudiantes (LP)
+1,Estudiantes (LP),Metropolitano 1977 - Fecha 29,1,Gimnasia (LP)
+3,Gimnasia (LP),Metropolitano 1977 - Fecha 6,3,Estudiantes (LP)
+2,Estudiantes (LP),Metropolitano 1976 - Ronda Final,0,Gimnasia (LP)
+2,Estudiantes (LP),Metropolitano 1976 - Fecha Intergrupo,1,Gimnasia (LP)
+1,Gimnasia (LP),Metropolitano 1976 - Fecha Intergrupo,1,Estudiantes (LP)
+0,Estudiantes (LP),Nacional 1976 - Fecha Intergrupo,1,Gimnasia (LP)
+1,Gimnasia (LP),Nacional 1976 - Fecha Intergrupo,2,Estudiantes (LP)
+1,Gimnasia (LP),Metropolitano 1975 - Fecha 25,1,Estudiantes (LP)
+3,Estudiantes (LP),Metropolitano 1975 - Fecha 6,3,Gimnasia (LP)
+1,Gimnasia (LP),Nacional 1975 - Fecha Intergrupo,1,Estudiantes (LP)
+2,Estudiantes (LP),Nacional 1975 - Fecha Intergrupo,1,Gimnasia (LP)
+1,Gimnasia (LP),Metropolitano 1974 - Fecha Intergrupo,0,Estudiantes (LP)
+2,Estudiantes (LP),Metropolitano 1974 - Fecha Intergrupo,1,Gimnasia (LP)
+2,Gimnasia (LP),Nacional 1974 - Fecha Intergrupo,1,Estudiantes (LP)
+2,Estudiantes (LP),Nacional 1974 - Fecha Intergrupo,0,Gimnasia (LP)
+1,Gimnasia (LP),Metropolitano 1973 - Fecha 31,1,Estudiantes (LP)
+1,Estudiantes (LP),Metropolitano 1973 - Fecha 14,3,Gimnasia (LP)
+1,Gimnasia (LP),Nacional 1973 - Fecha Intergrupo,1,Estudiantes (LP)
+1,Gimnasia (LP),Metropolitano 1972 - Fecha 24,2,Estudiantes (LP)
+0,Estudiantes (LP),Metropolitano 1972 - Fecha 7,0,Gimnasia (LP)
+4,Gimnasia (LP),Nacional 1972 - Fecha Intergrupo,1,Estudiantes (LP)
+2,Gimnasia (LP),Nacional 1972 - Grupo Reclasificatorio,2,Estudiantes (LP)
+2,Estudiantes (LP),Metropolitano 1971 - Fecha 34,1,Gimnasia (LP)
+1,Gimnasia (LP),Metropolitano 1971 - Fecha 15,0,Estudiantes (LP)
+5,Estudiantes (LP),Nacional 1971 - Fecha Intergrupo,1,Gimnasia (LP)
+1,Estudiantes (LP),Metropolitano 1970 - Fecha 8,1,Gimnasia (LP)
+4,Gimnasia (LP),Nacional 1970 - Fecha Intergrupo,1,Estudiantes (LP)
+4,Estudiantes (LP),Nacional 1970 - Fecha Intergrupo,1,Gimnasia (LP)
+1,Estudiantes (LP),Metropolitano 1969 - Fecha Intergrupo,0,Gimnasia (LP)
+2,Gimnasia (LP),Metropolitano 1969 - Fecha Intergrupo,0,Estudiantes (LP)
+1,Gimnasia (LP),Metropolitano 1968 - Fecha Intergrupo,6,Estudiantes (LP)
+3,Estudiantes (LP),Metropolitano 1968 - Fecha Intergrupo,3,Gimnasia (LP)
+3,Estudiantes (LP),Metropolitano 1967 - Fecha Intergrupo,0,Gimnasia (LP)
+0,Gimnasia (LP),Metropolitano 1967 - Fecha Intergrupo,0,Estudiantes (LP)
+0,Estudiantes (LP),Campeonato 1966 - Fecha 26,0,Gimnasia (LP)
+0,Gimnasia (LP),Campeonato 1966 - Fecha 7,0,Estudiantes (LP)
+3,Estudiantes (LP),Campeonato 1965 - Fecha 28,1,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1965 - Fecha 11,1,Estudiantes (LP)
+1,Estudiantes (LP),Campeonato 1964 - Fecha 20,1,Gimnasia (LP)
+3,Gimnasia (LP),Campeonato 1964 - Fecha 5,1,Estudiantes (LP)
+5,Gimnasia (LP),Campeonato 1963 - Fecha 15,2,Estudiantes (LP)
+2,Estudiantes (LP),Campeonato 1963 - Fecha 2,1,Gimnasia (LP)
+0,Estudiantes (LP),Campeonato 1962 - Fecha 23,2,Gimnasia (LP)
+0,Gimnasia (LP),Campeonato 1962 - Fecha 8,1,Estudiantes (LP)
+2,Estudiantes (LP),Campeonato 1961 - Fecha 20,1,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1961 - Fecha 5,1,Estudiantes (LP)
+2,Gimnasia (LP),Campeonato 1960 - Fecha 29,0,Estudiantes (LP)
+0,Estudiantes (LP),Campeonato 1960 - Fecha 14,2,Gimnasia (LP)
+3,Estudiantes (LP),Campeonato 1959 - Fecha 20,2,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1959 - Fecha 5,2,Estudiantes (LP)
+1,Gimnasia (LP),Campeonato 1958 - Fecha 20,2,Estudiantes (LP)
+1,Estudiantes (LP),Campeonato 1958 - Fecha 5,2,Gimnasia (LP)
+2,Estudiantes (LP),Campeonato 1957 - Fecha 30,2,Gimnasia (LP)
+0,Gimnasia (LP),Campeonato 1957 - Fecha 15,1,Estudiantes (LP)
+2,Estudiantes (LP),Campeonato 1956 - Fecha 17,3,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1956 - Fecha 2,2,Estudiantes (LP)
+1,Gimnasia (LP),Campeonato 1955 - Fecha 26,1,Estudiantes (LP)
+2,Estudiantes (LP),Campeonato 1955 - Fecha 11,1,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1953 - Fecha 17,0,Estudiantes (LP)
+1,Estudiantes (LP),Campeonato 1953 - Fecha 2,2,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1951 - Fecha 31,2,Estudiantes (LP)
+2,Estudiantes (LP),Campeonato 1951 - Fecha 14,2,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1950 - Fecha 31,2,Estudiantes (LP)
+1,Estudiantes (LP),Campeonato 1950 - Fecha 14,1,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1949 - Fecha 20,0,Estudiantes (LP)
+1,Estudiantes (LP),Campeonato 1949 - Fecha 3,1,Gimnasia (LP)
+6,Estudiantes (LP),Campeonato 1948 - Fecha 19,1,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1948 - Fecha 4,2,Estudiantes (LP)
+3,Estudiantes (LP),Campeonato 1945 - Fecha 30,1,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1945 - Fecha 15,4,Estudiantes (LP)
+2,Gimnasia (LP),Campeonato 1943 - Fecha 24,0,Estudiantes (LP)
+2,Estudiantes (LP),Campeonato 1943 - Fecha 9,1,Gimnasia (LP)
+1,Estudiantes (LP),Campeonato 1942 - Fecha 28,0,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1942 - Fecha 13,1,Estudiantes (LP)
+3,Estudiantes (LP),Campeonato 1941 - Fecha 24,1,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1941 - Fecha 9,2,Estudiantes (LP)
+1,Gimnasia (LP),Campeonato 1940 - Fecha 29,4,Estudiantes (LP)
+2,Estudiantes (LP),Campeonato 1940 - Fecha 12,1,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1939 - Fecha 33,3,Estudiantes (LP)
+0,Estudiantes (LP),Campeonato 1939 - Fecha 16,2,Gimnasia (LP)
+1,Estudiantes (LP),Campeonato 1938 - Fecha 22,2,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1938 - Fecha 5,2,Estudiantes (LP)
+1,Gimnasia (LP),Campeonato 1937 - Fecha 25,0,Estudiantes (LP)
+0,Estudiantes (LP),Campeonato 1937 - Fecha 7,2,Gimnasia (LP)
+3,Gimnasia (LP),Campeonato 1936 - Fecha 16,2,Estudiantes (LP)
+3,Estudiantes (LP),Copa de Honor 1936 - Fecha 16,2,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1935 - Fecha 33,1,Estudiantes (LP)
+2,Estudiantes (LP),Campeonato 1935 - Fecha 16,1,Gimnasia (LP)
+1,Estudiantes (LP),Campeonato 1934 - Fecha 32,1,Gimnasia (LP)
+2,Estudiantes (LP),Campeonato 1934 - Fecha 24,3,Gimnasia (LP)
+0,Gimnasia (LP),Campeonato 1934 - Fecha 11,1,Estudiantes (LP)
+1,Gimnasia (LP),Campeonato 1933 - Fecha 18,0,Estudiantes (LP)
+0,Estudiantes (LP),Campeonato 1933 - Fecha 1,2,Gimnasia (LP)
+2,Gimnasia (LP),Campeonato 1932 - Fecha 18,3,Estudiantes (LP)
+6,Estudiantes (LP),Campeonato 1932 - Fecha 1,1,Gimnasia (LP)
+2,Estudiantes (LP),Campeonato 1931 - Fecha 21,3,Gimnasia (LP)
+1,Gimnasia (LP),Campeonato 1931 - Fecha 4,1,Estudiantes (LP)
+0,Boca Juniors,Superliga 2018/19 - Fecha 6,2,River Plate
+1,River Plate,Superliga 2017/18 - Fecha 8,2,Boca Juniors
+1,Boca Juniors,Campeonato 2016/17 - Fecha 24,3,River Plate
+2,River Plate,Campeonato 2016/17 - Fecha 13,4,Boca Juniors
+0,Boca Juniors,Torneo 2016 - Fecha 12,0,River Plate
+0,River Plate,Torneo 2016 - Fecha 6,0,Boca Juniors
+0,River Plate,Campeonato 2015 - Fecha 24,1,Boca Juniors
+2,Boca Juniors,Campeonato 2015 - Fecha 11,0,River Plate
+1,River Plate,Torneo de Transicion 2014 - Fecha 10,1,Boca Juniors
+1,Boca Juniors,Torneo Final 2014 - Fecha 10,2,River Plate
+0,River Plate,Torneo Inicial 2013 - Fecha 10,1,Boca Juniors
+1,Boca Juniors,Torneo Final 2013 - Fecha 12,1,River Plate
+2,River Plate,Torneo Inicial 2012 - Fecha 12,2,Boca Juniors
+2,Boca Juniors,Torneo Clausura 2011 - Fecha 14,0,River Plate
+1,River Plate,Torneo Apertura 2010 - Fecha 14,0,Boca Juniors
+2,Boca Juniors,Torneo Clausura 2010 - Fecha 10,0,River Plate
+1,River Plate,Torneo Apertura 2009 - Fecha 10,1,Boca Juniors
+1,Boca Juniors,Torneo Clausura 2009 - Fecha 10,1,River Plate
+0,River Plate,Torneo Apertura 2008 - Fecha 10,1,Boca Juniors
+1,Boca Juniors,Torneo Clausura 2008 - Fecha 13,0,River Plate
+2,River Plate,Torneo Apertura 2007 - Fecha 13,0,Boca Juniors
+1,Boca Juniors,Torneo Clausura 2007 - Fecha 10,1,River Plate
+3,River Plate,Torneo Apertura 2006 - Fecha 10,1,Boca Juniors
+1,Boca Juniors,Torneo Clausura 2006 - Fecha 11,1,River Plate
+0,River Plate,Torneo Apertura 2005 - Fecha 11,0,Boca Juniors
+2,Boca Juniors,Torneo Clausura 2005 - Fecha 14,1,River Plate
+2,River Plate,Torneo Apertura 2004 - Fecha 14,0,Boca Juniors
+0,Boca Juniors,Torneo Clausura 2004 - Fecha 14,1,River Plate
+0,River Plate,Torneo Apertura 2003 - Fecha 14,2,Boca Juniors
+2,Boca Juniors,Torneo Clausura 2003 - Fecha 14,2,River Plate
+1,River Plate,Torneo Apertura 2002 - Fecha 14,2,Boca Juniors
+0,Boca Juniors,Torneo Clausura 2002 - Fecha 6,3,River Plate
+1,River Plate,Torneo Apertura 2001 - Fecha 6,1,Boca Juniors
+3,Boca Juniors,Torneo Clausura 2001 - Fecha 10,0,River Plate
+1,River Plate,Torneo Apertura 2000 - Fecha 10,1,Boca Juniors
+1,Boca Juniors,Torneo Clausura 2000 - Fecha 11,1,River Plate
+2,River Plate,Torneo Apertura 1999 - Fecha 11,0,Boca Juniors
+2,Boca Juniors,Torneo Clausura 1999 - Fecha 12,1,River Plate
+0,River Plate,Torneo Apertura 1998 - Fecha 12,0,Boca Juniors
+3,Boca Juniors,Torneo Clausura 1998 - Fecha 10,2,River Plate
+1,River Plate,Torneo Apertura 1997 - Fecha 10,2,Boca Juniors
+3,River Plate,Torneo Clausura 1997 - Fecha 6,3,Boca Juniors
+3,Boca Juniors,Torneo Apertura 1996 - Fecha 6,2,River Plate
+4,Boca Juniors,Torneo Clausura 1996 - Fecha 16,1,River Plate
+0,River Plate,Torneo Apertura 1995 - Fecha 16,0,Boca Juniors
+2,River Plate,Torneo Clausura 1995 - Fecha 18,4,Boca Juniors
+0,Boca Juniors,Torneo Apertura 1994 - Fecha 18,3,River Plate
+0,Boca Juniors,Torneo Clausura 1994 - Fecha 6,2,River Plate
+0,River Plate,Torneo Apertura 1993 - Fecha 6,1,Boca Juniors
+0,River Plate,Torneo Clausura 1993 - Fecha 10,2,Boca Juniors
+1,Boca Juniors,Torneo Apertura 1992 - Fecha 10,0,River Plate
+2,River Plate,Torneo Clausura 1992 - Fecha 11,2,Boca Juniors
+0,Boca Juniors,Torneo Apertura 1991 - Fecha 11,0,River Plate
+1,Boca Juniors,Torneo Clausura 1991 - Fecha 6,0,River Plate
+2,River Plate,Campeonato 1990/91 - Fecha 6,0,Boca Juniors
+1,River Plate,Campeonato 1989/90 - Fecha 21,1,Boca Juniors
+1,Boca Juniors,Campeonato 1989/90 - Fecha 2,0,River Plate
+1,Boca Juniors,Campeonato 1988/89 - Liguilla Libertadores,2,River Plate
+0,Boca Juniors,Campeonato 1988/89 - Liguilla Libertadores,0,River Plate
+0,River Plate,Campeonato 1988/89 - Liguilla Libertadores,0,Boca Juniors
+0,Boca Juniors,Campeonato 1988/89 - Fecha 21,0,River Plate
+0,River Plate,Campeonato 1988/89 - Fecha 2,2,Boca Juniors
+2,Boca Juniors,Campeonato 1987/88 - Fecha 34,2,River Plate
+3,River Plate,Campeonato 1987/88 - Fecha 15,2,Boca Juniors
+1,River Plate,Campeonato 1986/87  - Fecha 36,1,Boca Juniors
+1,Boca Juniors,Campeonato 1986/87  - Fecha 17,0,River Plate
+0,Boca Juniors,Campeonato 1985/86  - Fecha 36,2,River Plate
+1,River Plate,Campeonato 1985/86  - Fecha 17,0,Boca Juniors
+4,River Plate,Metropolitano 1984 - Fecha 32,1,Boca Juniors
+1,Boca Juniors,Metropolitano 1984 - Fecha 13,1,River Plate
+1,Boca Juniors,Metropolitano 1983 - Fecha 24,0,River Plate
+1,River Plate,Metropolitano 1983 - Fecha 5,2,Boca Juniors
+0,Boca Juniors,Metropolitano 1982 - Fecha 31,2,River Plate
+1,River Plate,Metropolitano 1982 - Fecha 12,1,Boca Juniors
+0,Boca Juniors,Torneo Nacional 1982 - Torneo Nacional,0,River Plate
+1,River Plate,Torneo Nacional 1982 - Torneo Nacional,5,Boca Juniors
+1,River Plate,Metropolitano 1981 - Fecha 27,1,Boca Juniors
+3,Boca Juniors,Metropolitano 1981 - Fecha 10,0,River Plate
+2,River Plate,Nacional 1981 - Fecha Intergrupo,2,Boca Juniors
+2,Boca Juniors,Nacional 1981 - Fecha Intergrupo,3,River Plate
+2,River Plate,Metropolitano 1980 - Fecha 23,1,Boca Juniors
+2,Boca Juniors,Metropolitano 1980 - Fecha 4,5,River Plate
+1,Boca Juniors,Nacional 1980 - Fecha Intergrupo,0,River Plate
+2,River Plate,Nacional 1980 - Fecha Intergrupo,2,Boca Juniors
+1,Boca Juniors,Nacional 1979 - Fecha Intergrupo,1,River Plate
+1,River Plate,Nacional 1979 - Fecha Intergrupo,1,Boca Juniors
+1,River Plate,Metropolitano 1978 - Fecha 38,0,Boca Juniors
+1,Boca Juniors,Metropolitano 1978 - Fecha 17,0,River Plate
+1,Boca Juniors,Metropolitano 1977 - Fecha 45,2,River Plate
+1,River Plate,Metropolitano 1977 - Fecha 22,1,Boca Juniors
+1,Boca Juniors,Metropolitano 1976 - Ronda Final,1,River Plate
+0,Boca Juniors,Metropolitano 1976 - Fecha Intergrupo,1,River Plate
+0,River Plate,Metropolitano 1976 - Fecha Intergrupo,0,Boca Juniors
+1,Boca Juniors,Nacional 1976 - Final,0,River Plate
+0,River Plate,Nacional 1976 - Fecha Intergrupo,2,Boca Juniors
+1,Boca Juniors,Nacional 1976 - Fecha Intergrupo,1,River Plate
+0,River Plate,Metropolitano 1975 - Fecha 34,1,Boca Juniors
+1,Boca Juniors,Metropolitano 1975 - Fecha 15,2,River Plate
+1,River Plate,Nacional 1975 - Fecha Intergrupo,2,Boca Juniors
+1,Boca Juniors,Nacional 1975 - Fecha Intergrupo,2,River Plate
+3,River Plate,Metropolitano 1974 - Fecha Intergrupo,1,Boca Juniors
+5,Boca Juniors,Metropolitano 1974 - Fecha Intergrupo,2,River Plate
+1,River Plate,Nacional 1974 - Fecha Intergrupo,1,Boca Juniors
+1,Boca Juniors,Nacional 1974 - Fecha Intergrupo,0,River Plate
+5,Boca Juniors,Metropolitano 1973 - Fecha 18,2,River Plate
+2,River Plate,Metropolitano 1973 - Fecha 1,1,Boca Juniors
+0,Boca Juniors,Nacional 1973 - Fecha Intergrupo,1,River Plate
+2,Boca Juniors,Metropolitano 1972 - Fecha 20,2,River Plate
+0,River Plate,Metropolitano 1972 - Fecha 3,4,Boca Juniors
+3,River Plate,Nacional 1972 - Semifinales,2,Boca Juniors
+5,River Plate,Nacional 1972 - Fecha Intergrupo,4,Boca Juniors
+3,River Plate,Metropolitano 1971 - Fecha 21,3,Boca Juniors
+1,Boca Juniors,Metropolitano 1971 - Fecha 2,2,River Plate
+3,River Plate,Nacional 1971 - Fecha Intergrupo,1,Boca Juniors
+1,Boca Juniors,Metropolitano 1970 - Fecha 15,0,River Plate
+0,Boca Juniors,Nacional 1970 - Fecha Intergrupo,0,River Plate
+2,River Plate,Nacional 1970 - Fecha Intergrupo,1,Boca Juniors
+0,Boca Juniors,Metropolitano 1969 - Semifinales,0,River Plate
+2,River Plate,Metropolitano 1969 - Fecha Intergrupo,0,Boca Juniors
+1,Boca Juniors,Metropolitano 1969 - Fecha Intergrupo,1,River Plate
+2,River Plate,Nacional 1969 - Fecha 17,2,Boca Juniors
+0,River Plate,Metropolitano 1968 - Fecha Intergrupo,0,Boca Juniors
+1,Boca Juniors,Metropolitano 1968 - Fecha Intergrupo,1,River Plate
+3,Boca Juniors,Nacional 1968 - Fecha 8,1,River Plate
+1,River Plate,Metropolitano 1967 - Fecha Intergrupo,0,Boca Juniors
+0,Boca Juniors,Metropolitano 1967 - Fecha Intergrupo,0,River Plate
+0,River Plate,Nacional 1967 - Fecha 12,1,Boca Juniors
+2,River Plate,Campeonato 1966 - Fecha 24,0,Boca Juniors
+1,Boca Juniors,Campeonato 1966 - Fecha 5,3,River Plate
+2,Boca Juniors,Campeonato 1965 - Fecha 32,1,River Plate
+1,River Plate,Campeonato 1965 - Fecha 15,2,Boca Juniors
+1,Boca Juniors,Campeonato 1964 - Fecha 29,1,River Plate
+0,River Plate,Campeonato 1964 - Fecha 14,0,Boca Juniors
+0,River Plate,Campeonato 1963 - Fecha 25,1,Boca Juniors
+2,Boca Juniors,Campeonato 1963 - Fecha 12,0,River Plate
+1,Boca Juniors,Campeonato 1962 - Fecha 29,0,River Plate
+3,River Plate,Campeonato 1962 - Fecha 14,1,Boca Juniors
+3,Boca Juniors,Campeonato 1961 - Fecha 27,1,River Plate
+2,River Plate,Campeonato 1961 - Fecha 12,2,Boca Juniors
+3,Boca Juniors,Campeonato 1960 - Fecha 18,1,River Plate
+1,River Plate,Campeonato 1960 - Fecha 3,1,Boca Juniors
+2,River Plate,Campeonato 1959 - Fecha 18,3,Boca Juniors
+5,Boca Juniors,Campeonato 1959 - Fecha 3,1,River Plate
+2,Boca Juniors,Campeonato 1958 - Fecha 29,2,River Plate
+2,River Plate,Campeonato 1958 - Fecha 14,2,Boca Juniors
+5,River Plate,Campeonato 1957 - Fecha 25,3,Boca Juniors
+2,Boca Juniors,Campeonato 1957 - Fecha 10,2,River Plate
+2,Boca Juniors,Campeonato 1956 - Fecha 17,1,River Plate
+2,River Plate,Campeonato 1956 - Fecha 2,1,Boca Juniors
+1,Boca Juniors,Campeonato 1955 - Fecha 29,2,River Plate
+0,River Plate,Campeonato 1955 - Fecha 14,4,Boca Juniors
+3,River Plate,Campeonato 1954 - Fecha 28,0,Boca Juniors
+0,Boca Juniors,Campeonato 1954 - Fecha 13,1,River Plate
+1,Boca Juniors,Campeonato 1953 - Fecha 27,0,River Plate
+2,River Plate,Campeonato 1953 - Fecha 12,3,Boca Juniors
+3,River Plate,Campeonato 1952 - Fecha 25,1,Boca Juniors
+2,Boca Juniors,Campeonato 1952 - Fecha 10,1,River Plate
+0,Boca Juniors,Campeonato 1951 - Fecha 31,3,River Plate
+1,River Plate,Campeonato 1951 - Fecha 14,0,Boca Juniors
+1,Boca Juniors,Campeonato 1950 - Fecha 27,2,River Plate
+1,River Plate,Campeonato 1950 - Fecha 10,0,Boca Juniors
+2,Boca Juniors,Campeonato 1949 - Fecha 30,0,River Plate
+1,River Plate,Campeonato 1949 - Fecha 13,0,Boca Juniors
+1,River Plate,Campeonato 1948 - Fecha 29,1,Boca Juniors
+1,Boca Juniors,Campeonato 1948 - Fecha 14,2,River Plate
+2,River Plate,Campeonato 1947 - Fecha 18,1,Boca Juniors
+2,Boca Juniors,Campeonato 1947 - Fecha 3,0,River Plate
+2,Boca Juniors,Campeonato 1946 - Fecha 25,0,River Plate
+2,River Plate,Campeonato 1946 - Fecha 10,0,Boca Juniors
+4,Boca Juniors,Campeonato 1945 - Fecha 28,1,River Plate
+1,River Plate,Campeonato 1945 - Fecha 13,0,Boca Juniors
+0,River Plate,Campeonato 1944 - Fecha 20,1,Boca Juniors
+1,Boca Juniors,Campeonato 1944 - Fecha 5,1,River Plate
+2,Boca Juniors,Campeonato 1943 - Fecha 20,1,River Plate
+3,River Plate,Campeonato 1943 - Fecha 5,1,Boca Juniors
+2,Boca Juniors,Campeonato 1942 - Fecha 28,2,River Plate
+4,River Plate,Campeonato 1942 - Fecha 13,0,Boca Juniors
+5,River Plate,Campeonato 1941 - Fecha 29,1,Boca Juniors
+2,Boca Juniors,Campeonato 1941 - Fecha 14,1,River Plate
+1,River Plate,Campeonato 1940 - Fecha 29,1,Boca Juniors
+3,Boca Juniors,Campeonato 1940 - Fecha 12,1,River Plate
+1,Boca Juniors,Campeonato 1939 - Fecha 30,2,River Plate
+0,River Plate,Campeonato 1939 - Fecha 13,2,Boca Juniors
+2,River Plate,Campeonato 1938 - Fecha 19,2,Boca Juniors
+1,Boca Juniors,Campeonato 1938 - Fecha 2,2,River Plate
+3,River Plate,Campeonato 1937 - Fecha 34,2,Boca Juniors
+5,River Plate,Campeonato 1937 - Fecha 18,3,Boca Juniors
+2,Boca Juniors,Campeonato 1937 - Fecha 16,1,River Plate
+2,River Plate,Campeonato 1936 - Fecha 3,1,Boca Juniors
+2,Boca Juniors,Copa de Honor 1936 - Fecha 3,3,River Plate
+1,River Plate,Campeonato 1935 - Fecha 22,1,Boca Juniors
+1,Boca Juniors,Campeonato 1935 - Fecha 5,0,River Plate
+2,Boca Juniors,Campeonato 1934 - Fecha 32,0,River Plate
+0,River Plate,Campeonato 1934 - Fecha 25,1,Boca Juniors
+4,Boca Juniors,Campeonato 1934 - Fecha 12,1,River Plate
+3,River Plate,Campeonato 1933 - Fecha 34,1,Boca Juniors
+1,Boca Juniors,Campeonato 1933 - Fecha 17,1,River Plate
+2,Boca Juniors,Campeonato 1932 - Fecha 32,1,River Plate
+1,River Plate,Campeonato 1932 - Fecha 15,1,Boca Juniors
+0,River Plate,Campeonato 1931 - Fecha 34,3,Boca Juniors
+1,Boca Juniors,Campeonato 1931 - Fecha 17,1,River Plate
